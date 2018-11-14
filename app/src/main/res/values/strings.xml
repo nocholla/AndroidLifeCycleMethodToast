@@ -1,0 +1,17 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">LifeCycleMethodToast</string>
+
+    <!-- Text -->
+    <string name="activity_life_cycle">Activity Life Cycle</string>
+
+    <!-- Toast -->
+    <string name="activity_life_cycle_on_create">On Create</string>
+    <string name="activity_life_cycle_on_start">On Start</string>
+    <string name="activity_life_cycle_on_resume">On Resume</string>
+    <string name="activity_life_cycle_on_pause">On Pause</string>
+    <string name="activity_life_cycle_on_restart">On Restart</string>
+    <string name="activity_life_cycle_on_stop">On Stop</string>
+    <string name="activity_life_cycle_on_destroy">On Destroy</string>
+
+</resources>
