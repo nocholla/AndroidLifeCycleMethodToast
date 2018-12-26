@@ -1,4 +1,4 @@
-# Android Activity LifeCycle Method 
+# Android Activity LifeCycle 
 
 ![activity lifecycle 1](https://user-images.githubusercontent.com/801612/50360474-005c1e80-0515-11e9-895f-745735cb4b10.jpeg)
 
